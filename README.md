@@ -45,7 +45,7 @@ Machine Learning: scikit-learn
 
 How to Run
 Clone the repository:
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
+git clone [https://github.com/your-username/twitter-sentiment-analysis.git](https://github.com/MadhuriP2954/SENTIMENT-ANALYSIS
 cd twitter-sentiment-analysis
 Install the required libraries:
 pip install -r requirements.txt
